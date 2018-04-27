@@ -1,7 +1,7 @@
 module Tests
 
 open Xunit
-open EnumeratorUtils.Library
+open EnumeratorUtils
 
 [<Fact>]
 let ``My test`` () =
@@ -10,4 +10,3 @@ let ``My test`` () =
     let ee = e.Cast<int>()
 
     Assert.True([1;2;3;4] = (ee |> Seq.toList))
-

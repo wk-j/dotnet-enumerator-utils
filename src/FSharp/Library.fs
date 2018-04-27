@@ -1,4 +1,4 @@
-module EnumeratorUtils.Library
+namespace EnumeratorUtils
 
 open System.Collections
 open System.Runtime.CompilerServices
