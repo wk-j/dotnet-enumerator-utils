@@ -1,5 +1,7 @@
 ## Enumerator Utils
 
+[![NuGet](https://img.shields.io/nuget/v/wk.EnumeratorUtils.svg)](https://www.nuget.org/packages/wk.EnumeratorUtils)
+
 ## Installation
 
 ```bash
